@@ -1,4 +1,4 @@
-package findLetterOrWordInString;
+package find_letter_or_word_in_string;
 
 import java.util.Scanner;
 

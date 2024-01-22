@@ -1,4 +1,4 @@
-package examFirstTerm;
+package exam_tirst_term;
 
 import java.util.Scanner;
 

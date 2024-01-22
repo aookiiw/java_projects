@@ -1,4 +1,4 @@
-package gameThrowDices;
+package game_throw_dices;
 
 import java.util.Scanner;
 import java.util.Random;

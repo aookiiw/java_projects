@@ -1,4 +1,4 @@
-package countKmsOfTrucksForCompany;
+package count_kms_of_trucks_for_company;
 
 import java.util.Scanner;
 
